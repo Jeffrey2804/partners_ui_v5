@@ -1,0 +1,16 @@
+{
+  "name": "@dashboard/ui-components",
+  "version": "1.0.0",
+  "description": "Shared UI components for dashboard application",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Build ui-components'",
+    "lint": "echo 'Lint ui-components'",
+    "test": "echo 'Test ui-components'"
+  },
+  "peerDependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}

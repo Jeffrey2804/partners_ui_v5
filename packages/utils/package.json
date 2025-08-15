@@ -1,0 +1,16 @@
+{
+  "name": "@dashboard/utils",
+  "version": "1.0.0",
+  "description": "Utility functions for dashboard application",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Build utils'",
+    "lint": "echo 'Lint utils'",
+    "test": "echo 'Test utils'"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "lodash": "^4.17.21"
+  }
+}
